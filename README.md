@@ -10,6 +10,13 @@
  
  
  
+
+
+*Project from [freecodecamp](https://www.freecodecamp.org/news/react-tutorial-build-a-project/)
+
+
+
+
 1. List of Todo Elements
 1. React Component rules
    1. Pass Data to Components with Props
@@ -26,5 +33,3 @@
 4. Mark Todos as Done with onClick _textDecoration_ _onClick_ _handleToggleTodo_ _setTodos_ _onDoubleClic_
 5. Handle Deleting _window.confirm()_
 </p>
-
-*Project from [freecodecamp](https://www.freecodecamp.org/news/react-tutorial-build-a-project/)
