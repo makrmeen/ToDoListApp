@@ -1,10 +1,15 @@
-<p style="text-align: center;"> *An interactive To Do List:*
-   -View Tasks
-   -Add New Task
-   -Add an x to Task
-   -~~Cross line Task~~
-   -Delete Tasks 
-   </p>
+
+## 📜 Interactive To Do List: 📋
+  - [x] View Tasks 📑
+  - [x] Add New Task ✍🏻
+  - [ ] Add an ❌ to Task 
+  - [ ] ~~Cross line Task~ 
+  - [x] Delete Tasks  🎯
+ 
+ 
+ 
+ 
+ 
 1. List of Todo Elements
 1. React Component rules
    1. Pass Data to Components with Props
@@ -20,5 +25,6 @@
 3. Essential Rules of React Hooks 
 4. Mark Todos as Done with onClick _textDecoration_ _onClick_ _handleToggleTodo_ _setTodos_ _onDoubleClic_
 5. Handle Deleting _window.confirm()_
+</p>
 
-*Project from https://www.freecodecamp.org/news/react-tutorial-build-a-project/
+*Project from [freecodecamp](https://www.freecodecamp.org/news/react-tutorial-build-a-project/)
