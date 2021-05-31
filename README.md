@@ -1,21 +1,26 @@
 
 ## 📜 Interactive To Do List: 📋
+ * [Free Code Camp](https://www.freecodecamp.org/news/react-tutorial-build-a-project/) Project
+
+You can:
   - [x] View Tasks 📑
   - [x] Add New Task ✍🏻
   - [ ] Add an ❌ to Task 
-  - [ ] ~~Cross line Task~ 
+  - [ ] ~~Cross line Task~~  _onDoubleClic_
   - [x] Delete Tasks  🎯
- 
- 
- 
- 
- 
 
 
-*Project from [freecodecamp](https://www.freecodecamp.org/news/react-tutorial-build-a-project/)
-
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 1. List of Todo Elements
 1. React Component rules
