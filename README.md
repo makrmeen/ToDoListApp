@@ -1,4 +1,10 @@
-*An interactive To Do List:*
+<p style="text-align: center;"> *An interactive To Do List:*
+   -View Tasks
+   -Add New Task
+   -Add an x to Task
+   -~~Cross line Task~~
+   -Delete Tasks 
+   </p>
 1. List of Todo Elements
 1. React Component rules
    1. Pass Data to Components with Props
